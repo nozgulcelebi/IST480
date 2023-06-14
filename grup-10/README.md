@@ -3,7 +3,7 @@ Institute".
 
 İnceleme aşamasını:
 
-1-Makalenin yayınlandığı dergi hakkında genel bilgiler
+1- Makalenin yayınlandığı dergi hakkında genel bilgiler
 2- Makale incelemesi
 3- Makalenin amacı ve önemi
 4- Makalenin Metadolojisi
