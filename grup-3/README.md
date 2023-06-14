@@ -14,7 +14,7 @@ Sunumumuz aşağıdaki başlıkları içermektedir:
 - Makale Hakkında Görüşler
 - Kaynaklar
 
-Sunumumza `../grup-3/MakaleRapor.pdf` 'ten ulaşabilirsiniz.
+Sunumumuza `../grup-3/MakaleRapor.pdf`'ten ulaşabilirsiniz.
 
 İlginiz için teşekkür ederiz! Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen iletişime geçmekten çekinmeyin.❤️
 
