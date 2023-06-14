@@ -8,7 +8,7 @@ Institute".
 3- Makalenin amacı ve önemi
 4- Makalenin Metadolojisi
 5- Sonuç ve Tartışma
-Sıralaması ile yaptık. Sunuma ../grup-10/Araştırma_Yöntemleri_Final_Ödevi.pdf 'den ulaşılabilir.
+Sıralaması ile yaptık. 
 
 ## Dosya Yapısı
 ```
