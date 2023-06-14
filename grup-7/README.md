@@ -8,12 +8,4 @@ Makalenin Yayınlandığı Dergi Hakkında Genel Bilgiler:
 + Makale Hakkında Görüşler
 + Referanslar
 
-  IST-480 (proje kök dizini)
-├─ Grup1
-│  ├─ latex.zip
-│  ├─ Orjinal-Makale.pdf
-│  ├─ MakaleRapor.pdf
-│  └─ Readme.md
-├─ Grup2
-└─ Grup3
-+ ---
+Grup7 klasöründe LaTeX kodları,incelenen makale ve sunum dosyası bulunmaktadır.
