@@ -17,6 +17,8 @@ Sunumumuz aşağıdaki başlıkları içermektedir:
 Sunumumuza `../grup-3/MakaleRapor.pdf`'ten ulaşabilirsiniz.
 
 İlginiz için teşekkür ederiz! Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen iletişime geçmekten çekinmeyin.❤️
+Ecem ÇIRAKOĞLU - 21821665
+Oğuzcan ERTÜL  - 21821814 
 
 <hr width=150 align="right">
 <h3 align="left"> Kodların Tanımlanması </h3>
