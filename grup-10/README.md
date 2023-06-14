@@ -20,4 +20,4 @@ Sıralaması ile yaptık. Sunuma ../grup-10/Araştırma_Yöntemleri_Final_Ödevi
 ├─ Araştırma_Yöntemleri_Final_Ödevi.pdf (sunum dosyası)
 └─ README.md
 ```
-Proje dosya yapısı yukarıdaki gibi olup, `grup-21` klasöründe LaTeX kodları,incelenen makale ve sunum dosyası bulunmaktadır.
+Proje dosya yapısı yukarıdaki gibi olup, `grup-10` klasöründe LaTeX kodları,incelenen makale ve sunum dosyası bulunmaktadır.
