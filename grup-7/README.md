@@ -8,5 +8,5 @@ Makalenin Yayınlandığı Dergi Hakkında Genel Bilgiler:
 + Makale Hakkında Görüşler
 + Referanslar
 
-+ Proje Dosya Yapısı
+  
 + ---
