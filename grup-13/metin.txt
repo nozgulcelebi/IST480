@@ -1,0 +1,147 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+\usetheme{metropolis} % Use metropolis theme
+
+%---------------------------------------------
+% Define title
+%---------------------------------------------
+\title[IST480 Research Methods]{IST480 Research Methods: Makale Incelemesi}
+
+\subtitle{The Possible Relation Between Temporal Muscle Mass and Glioblastoma Multiforme Prognosis via Sarcopenia Perspective}
+
+\author{Dilay Deniz AYDOĞDU \and Elif ERAT}
+
+\date{Haziran 2023}
+
+%---------------------------------------------
+% Begin document
+%---------------------------------------------
+\begin{document}
+% Title slide
+\begin{frame}
+    \maketitle
+\end{frame}
+
+%---------------------------------------------
+% Table of contents slide
+%---------------------------------------------
+\begin{frame}{İÇİNDEKİLER}
+    \tableofcontents
+\end{frame}
+
+%---------------------------------------------
+% Journal information slide
+%---------------------------------------------
+\begin{frame}[allowframebreaks]{Makalenin Yayınlandığı Dergi Hakkında Genel Bilgiler}
+    \begin{itemize}
+        \item Dergi Adı: Turkish Journal of Medical Sciences
+        \item Dergi İndeksi: Tr Dizin, Index Copernicus, SCIE
+        \item Dergi hakkında: Türk Tıp Bilimleri Dergisi, Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK) - Türkiye Akademik Ağ ve Bilgi Merkezi (ULAKBİM) tarafından yayınlanan uluslararası, iki ayda bir, hakemli, açık erişimli bir dergidir. Turk J Med Sci, tıbbın tüm alanlarına ve ilgili sağlık bilimlerine adanmıştır. Dergi Şubat, Nisan, Haziran, Ağustos, Ekim ve Aralık aylarında yayımlanır. Dergi 2019'dan beri PMC'de indekslenmekte ve 2009'dan beri SCI-E'ye dahil edilmektedir.
+        \item Derginin erişim linki: \url{https://journals.tubitak.gov.tr/medical}
+    \end{itemize}
+\end{frame}
+
+%---------------------------------------------
+% Article review slide
+%---------------------------------------------
+\begin{frame}{Makale İncelemesi}
+    \begin{itemize}
+        \item Makale hakkında genel bilgiler
+        \begin{itemize}
+            \item Makale Adı: The Possible Relation Between Temporal Muscle Mass and Glioblastoma Multiforme Prognosis via Sarcopenia Perspective
+            \item Yazarlar: SÜTCÜOĞLU, OSMAN; ERDAL, ZEYNEP SEZGİ; AKDOĞAN, ORHUN; ÇELTİKÇİ, EMRAH; ÖZDEMİR, NURİYE ;ÖZET, AHMET; UÇAR, MURAT; VE YAZICI, OZAN
+            \item Makale Dili: İngilizce
+            \item Makalenin Konusu: Glioblastoma multiforme (GBM) tanılı hastalarda, Temporal kas kalınlığının (TMT) ve Temporal kas alanı (TMA) ile sarkopeni arası ilişkiyi incelemek aynı zamanda hastalığın prognozu ile ilgili tahminde bulunmak.
+        \end{itemize}
+        \item Makalenin Amacı
+        \begin{itemize}
+            \item Temporal lobun hacmi, glioblastoma hastalarının sarkopenik prognozunu belirlemede önemli bir faktördür. Yapılan çalışmalar, temporal kas kütlesi kaybının, glioblastoma hastalarında daha kötü prognozla ilişkili olduğunu göstermektedir. Bu nedenle, temporal lob hacminin değerlendirilmesi, bu hastalarda sarkopeninin tanısı ve tedavisinde önemlidir. 
+            \item Temporal kas kalınlığının (TMT) sarkopeniyi yansıtabileceği ve hayatta kalma ile ilişkili olabileceği incelenmiştir. Temporal kas alanı (TMA) ile GBM prognozu arasındaki ilişki değerlendirilmiş. Bunun sonucu yapılan çalışmanın öncelikli amacı, yeni tanı almış GBM hastalarında TMA/TMT ile genel sağkalım (OS) süresi arasındaki ilişkiyi değerlendirmek ve anlamlandırmaktır.
+        \end{itemize}
+        \item Makalenin Metodolojisi
+        \item Sonuç ve Tartışma
+        \item Makale Hakkında Görüşler
+    \end{itemize}
+\end{frame}
+
+% Add additional frames for the remaining sections 
+
+%---------------------------------------------
+% Methodology slide
+%---------------------------------------------
+\begin{frame}{Makalenin Metodolojisi}
+    \begin{itemize}
+        \item Çalışmanın tipi: Retrospektif bir çalışma
+        \item Veri Kaynağı: Ocak 2006 - Aralık 2016 arasında, glioblastoma tanısı almış olan 72 hasta
+        \item Değişkenler: TMT, TMA, OS
+        \item Yöntem: Hastaların TMT, TMA ve OS süreleri hesaplandı. TMA/TMT oranı kullanılarak sarkopeninin tanısı konuldu ve TMA/TMT oranının OS ile bulunan korelasyonu incelendi.
+        \item İstatistiksel Analiz: Student t-testi, chi-square testi, Pearson korelasyon analizi, Kaplan-Meier yöntemi, Cox regresyon analizi
+    \end{itemize}
+\end{frame}
+
+%---------------------------------------------
+% Results slide
+%---------------------------------------------
+\begin{frame}{Sonuçlar}
+    \begin{itemize}
+        \item TMA/TMT oranı median 2.176 (IQR 1.630-2.543) olarak hesaplandı.
+        \item TMA/TMT oranı, OS ile negatif koreleasyon gösterdi (p = 0.001).
+        \item Cox regresyon analizinde, TMA/TMT oranının bağımsız bir prognostik faktör olduğu (HR: 2.756, %95 CI: 1.524-4.986, p = 0.001) görüldü.
+        \item Sonuç olarak, TMA/TMT oranı, glioblastoma hastalarında sarkopeni tanısı için kullanılabilir ve hastalığın prognozu ile ilişkili bir faktör olabilir.
+    \end{itemize}
+\end{frame}
+
+%---------------------------------------------
+% Discussion slide
+%---------------------------------------------
+\begin{frame}{Tartışma}
+    \begin{itemize}
+        \item Makaledeki bulgular, temporal kas kütlesi kaybının, glioblastoma hastalarındaki kötü prognozla ilişkili olduğunu doğrulamaktadır.
+        \item Sarkopeni, kanser hastalarında genellikle yetersiz diyet, inflamasyon, hormonal değişiklikler ve katabolik stres gibi faktörlerin bir arada etkisiyle ortaya çıkmaktadır.
+        \item TMA/TMT oranı, hastalarda sarkopeninin tanısında kullanılabilecek basit, ucuz ve doğru bir yöntemdir.
+        \item Makalede elde edilen sonuçlar, daha büyük örneklem boyutlarıyla ve farklı tipte kanser hastalarında da yapılacak çalışmalarla desteklenmelidir.
+    \end{itemize}
+\end{frame}
+
+%---------------------------------------------
+% Article review slide
+%---------------------------------------------
+\begin{frame}{Makale Hakkında Görüşler}
+    \begin{itemize}
+        \item Makale, temporal kas kütlesi kaybının herniasyon oluşturan beyin tümörü olan glioblastoma hastalarında kötü prognozla ilişkili olduğunu ortaya koymaktadır. 
+        \item TMA/TMT oranının, glioblastoma hastalarında sarkopeni tanısı ve prognozun belirlenmesinde kullanılabilecek basit bir yöntem olduğu belirtilmektedir.
+        \item Makalenin Metodolojisi, çalışmanın sayısı nedeniyle birçok açıdan sınırlı kalmıştır. 
+        \item Sonuç olarak, makale, temporal kas kütlesi kaybı ve glioblastoma hastalarının prognozu arasındaki ilişkiyi inceleyerek önemli sonuçlar ortaya koymaktadır.
+subsection{Makalenin Metodolojisi}
+
+\textbf{Örnekleme Planı:} Gazi Üniversitesi Hastanesi Onkoloji Bölümüne başvuran hastalardan örneklem oluşturma kriterleri, 18 yaşından büyük olma, patolojik olarak GBM tanısı alma, ameliyat sonrası kemoterapiyi tamamlama ve önleyici tedavi olarak bir kür temozolomid tedavisini tamamlama olarak belirlenmiştir.
+
+\textbf{Veri Toplama Yöntemi:} Çalışmaya dahil edilen hastaların ameliyattan otuz gün önce MRI görüntüleri kullanılmıştır. 4. evrede GBM olan hastalar çalışmaya dahil edilmemiştir. Performans değerlendirmesi, cinsiyet, tümör boyutu, tümör yeri, tümörün moleküler karakteri gibi veriler kullanılmıştır. Hastalarda 3 Tesla MRI cihazı ile görüntüleme yapılmıştır. TMT ve TMA değerleri sağ ve sol ayrı olarak değerlendirilmiş ve hesaplanmıştır.
+subsection{Uygulanan Yöntemler}
+Hastalarda 3 Tesla MRI cihazı ile görüntüleme yapılmıştır. TMT ve TMA değerleri sağ ve sol ayrı olarak değerlendirilmiş ve hesaplanmıştır. Hastaların verileri, yani doğrulanmış glioblastoma multiforme tanısı alan hastaların verileri, retrospektif olarak analiz edilmiştir. Temporal kas kalınlığı ve TMA, glioblastoma multiforme (GBM) tanısı alan hastaların ameliyat öncesi MRG'lerinden retrospektif olarak ölçülmüştür. Analiz metodu olarak Kolmogorov–Smirnov/Shapiro–Wilk testi uygulanmıştır. Normal olmayan dağılımda ise tanımlayıcı istatistikler ve median değeri kullanılmış kategorik veri yüzdelerle ifade edilmiştir. TMA ve TMT arası ilişki için ki-kare ve Fisher testi uygulanmıştır.
+
+BMI üç kategorik grup (<25, 25–30, ve >30) olarak bölündü ve BMI grupları TMT ve TMA arası analiz için Pearson ve ki-kare testleri kullanılmıştır. Dağılım analizleri TMT, TMA, NLR, PLR, and SII grupları için medyan değerlerine göre incelenmiştir. Hastalar cut-off değerlerine göre iki gruba ayrılmıştır. GBM hayatta kalma bağımsız tahmin edicisi, Cox regresyonu ile hesaplanmıştır. Çok değişkenli analiz 95\% güven düzeyinde p değeri 0,005 istatistiksel anlamlılık olarak seçilmiştir.
+subsection{Sonuç ve Tartışma}
+Dağılım analizleri TMT, TMA, NLR, PLR ve SII grupları için medyan değerlerine göre incelenmiştir. Hastalar cut-off değerlerine göre iki gruba ayrılmıştır. GBM hayatta kalma bağımsız tahmin edicisi, Cox regresyonu ile hesaplanmıştır. Çok değişkenli analiz 95\% güven düzeyinde p değeri 0.005 istatistiksel anlamlılık olarak seçilmiştir.
+
+Yapılan araştırmalar, temporal kas kütlesi ile glioblastoma arasında bir bağlantı olduğunu göstermektedir. Bu bağlantının doğası henüz tam olarak anlaşılamamış olsa da, sarkopeni gibi faktörlerin bu ilişkide rol oynadığı düşünülmektedir.
+
+\end{document}
+subsection{Makale Hakkında Görüşler}
+Analiz metodu olarak Kolmogorov-Smirnov/Shapiro-Wilk testi uygulanmış ve hastalığın prognozu için öncü olabilecek ve tedavi planına yardım sağlayabilecek sonuçlar elde edilmiştir. Ancak örneklem genişletilerek çalışma daha detaylandırılabilir ve kapsamı daha geniş hale getirilebilir.
+\section{Referanslar}
+
+\begin{thebibliography}{9}
+
+\bibitem{1} Louis DN, Ohgaki H, Wiestler OD, Cavenee WK, Burger PC et al. The 2007 WHO classification of tumours of the central nervous system. Acta Neuropathologica. 2007;114(2):97-109. https://doi.org/10.1007/s00401-007-0243-4
+
+\bibitem{2} Louis DN, Perry A, Wesseling P, Brat DJ, Cree IA et al. The 2021 WHO Classification of Tumors of the Central Nervous System: a summary. Neuro-Oncology. 2021;23(8):1231-1251. https://doi.org/10.1093/neuonc/noab106
+
+\bibitem{3} Stupp R, Mason WP, van den Bent MJ, Weller M, Fisher B et al. Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma. New England Journal of Medicine. 2005;352(10):987-996. https://doi.org/10.1056/NEJMoa043330
+
+\end{thebibliography}
+
+\end{document}
