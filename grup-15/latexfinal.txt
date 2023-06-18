@@ -1,0 +1,75 @@
+\documentclass{slides}
+\usepackage{graphicx} % Required for inserting images
+
+\title{ARAŞTIRMA YÖNTEMLERİ FİNAL}
+\author{Hatice KARABULUT  Nazlıcan ÖZER}
+\date{June 2023}
+
+\maketitle
+
+\begin{document}
+
+
+\textbf{Dergi Hakkında}
+
+
+\textbf{Derginin Adı }\\
+ Journal of Big Data
+
+\textbf{Derginin Indexi}\\
+    Issn : 2196-1115
+
+
+\textbf {Dergiye Erişim Bağlantısı}:\\ https://journalofbigdata.springeropen.com/ 
+
+
+\textbf{Dergi Hakkında:}
+
+Journal of Big Data, veri bilimi ve veri analitiği üzerine açık erişimli orijinal araştırmalar yayınlar. Derin öğrenme algoritmaları ve tüm büyük veri uygulamaları memnuniyetle karşılanır. Anket kağıtları ve vaka çalışmaları da dikkate alınır.
+Dergi, günümüzde büyük verilerin karşılaştığı ve bunlarla sınırlı olmamak üzere ileriye dönük zorlukları inceliyor: veri yakalama ve depolama; arama, paylaşım ve analitik; büyük veri teknolojileri; veri goruntuleme; büyük ölçüde paralel işleme için mimariler; veri madenciliği araçları ve teknikleri; büyük veriler için makine öğrenimi algoritmaları; bulut bilişim platformları; dağıtılmış dosya sistemleri ve veritabanları; ve ölçeklenebilir depolama sistemleri.
+
+\end{frame}
+
+\textbf{Makale Hakkında Genel Bilgiler}\\
+
+
+
+     \textbf{Makalenin Adı} \\
+   Deep learning applications and challenges in big data analytics
+
+    \textbf{Yazarlar} \\
+    Maryam M Najafabadi, Flavio Villanustre, Taghi M Khoshgoftaar, Naeem Seliya, Randall Wald and Edin Muharemagic
+
+  \textbf {Makalenin Dili} \\
+    İngilizce
+\end{frame}
+
+{Makale Hakkında}
+{Makale İncelemesi} \\
+  \textbf{Makalenin Konusu} \\
+         Derin öğrenmenin büyük veri analitiği ve makine öğrenimi alanlarındaki uygulamaları ve bu uygulamalar için karşılaşılan zorluklar üzerine odaklanmaktadır. Makale, derin öğrenme algoritmalarının büyük veri analitiği için nasıl kullanılabileceğini ve derin öğrenmenin büyük veriye özgü sorunları nasıl ele aldığını incelemektedir. Ayrıca, derin öğrenme ve büyük veri analitiği alanında yapılan önemli çalışmalara değinilmiştir.
+         
+       
+        \textbf{Makalenin Amacı} \\
+          Bu çalışma, derin öğrenme algoritmalarının büyük veri analitiği için uygulanması ve büyük veri analitiğiyle ilişkili sorunların derin öğrenme algoritmalarına adaptasyonu konusunda odaklanmaktadır. Derin öğrenmenin büyük veri analitiği alanında farklı amaçlarla nasıl kullanılabileceğini belirlemek için araştırma yapılmıştır. Derin öğrenmenin, büyük veri analitiği için önemli avantajlara sahip olduğu ve büyük veri analitiğiyle ilgili zorlukları çözebileceği sonucuna varılmıştır. Bununla birlikte, derin öğrenme alanının henüz tam anlamıyla gelişmemiş olduğu ve yüksek boyutluluk, akış veri analizi, ölçeklenebilirlik, dağıtık hesaplama gibi büyük veri sorunlarına yönelik daha fazla araştırmaya ihtiyaç duyulduğu belirtilmiştir.
+    
+\end{itemize}
+
+\textbf{Makalenin Önemi}
+Makalenin Önemi: Derin öğrenmenin büyük veri analitiği ve makine öğrenimi alanlarındaki uygulamaları ve bu uygulamalar için karşılaşılan zorluklar üzerine odaklanmaktadır. Makale, derin öğrenme algoritmalarının büyük veri analitiği için nasıl kullanılabileceğini ve derin öğrenmenin büyük veriye özgü sorunları nasıl ele aldığını incelemektedir. 
+
+\end{frame}
+
+\textbf{Makale Hakkında}
+
+Bu çalışma, derin öğrenmenin büyük veri analitiği alanında nasıl kullanılabileceğini ve büyük veri analitiğinin derin öğrenme algoritmalarına adaptasyonuyla ilgili sorunları ele almaktadır. Derin öğrenme, geleneksel makine öğrenimi ve özellik mühendisliği algoritmalarından farklı olarak, büyük miktarda giriş verisindeki veri analizi ve öğrenme sorunlarının çözümüne potansiyel olarak katkıda bulunan bir avantaja sahiptir.
+
+Derin öğrenme, büyük veri analitiği için önemli avantajlara sahiptir çünkü büyük miktarda denetimsiz veriden karmaşık veri temsilleri otomatik olarak çıkarılabilir. Bu, büyük veri analitiği için değerli bir araç haline gelir çünkü genellikle denetimsiz ve kategorize edilmemiş büyük veri koleksiyonlarından veri analizi gerektirir. Derin öğrenme, büyük veri analitiği görevleri için farklı seviyelerde karmaşık veri soyutlamalarını hiyerarşik olarak öğrenip çıkarabilir. Bu özellik, özellikle büyük miktardaki veriyi analiz etmek, anlamsal dizinleme, veri etiketleme, bilgi geri çağırma, sınıflandırma ve tahmin gibi ayrımcı görevler için büyük veri analitiği görevlerini basitleştirmede belirli bir derecede kolaylık sağlar.
+
+Bu çalışmanın literatürdeki önemli derin öğrenme araştırmalarına odaklanarak ve bu konularla ilgili içgörülerimizi sunarak, derin öğrenme algoritmalarının ve mimarilerinin büyük veri analitiği için uygulanmasına ve büyük veri analitiğiyle ilgili bazı özelliklerin ve sorunların derin öğrenme algoritmalarına nasıl adapte edileceğine odaklanılmıştır.
+
+Derin öğrenme alanının düşük olgunluk düzeyi, daha fazla araştırmaya ihtiyaç duyulmasını gerektirmektedir. Özellikle yüksek boyutluluk, akış veri analizi, derin öğrenme modellerinin ölçeklenebilirliği, iyi veri soyutlamalarının formülasyonunun geliştirilmesi, dağıtık hesaplama, anlamsal dizinleme, veri etiketleme, bilgi geri çağırma ve alan uyarlama gibi büyük veri sorunlarıyla ilişkili sorunların derin öğrenme algoritmalarına nasıl adapte edilebileceği konusunda daha fazla çalışma gerekmektedir.
+
+Gelecekteki çalışmalar, büyük veri analitiğiyle ilişkili bu sorunlardan bir veya daha fazlasını ele alarak derin öğrenme ve büyük veri analitiği araştırma kümesine katkıda bulunmalıdır. Bu şekilde derin öğrenme ve büyük veri analitiği alanındaki ilişki daha da geliştirilebilir
+
+\end{document}
